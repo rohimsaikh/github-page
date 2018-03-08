@@ -1,0 +1,353 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cente",
+				"center-xs"
+			],
+			[
+				"bo",
+				"bold"
+			],
+			[
+				"bgsc",
+				"bgsz-cv\tbackground-size: cover;"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"mi",
+				"middle-sm"
+			],
+			[
+				"midd",
+				"middle-md"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"ce",
+				"center-lg"
+			],
+			[
+				"ttd",
+				"text-decoration"
+			],
+			[
+				"cen",
+				"center-xs"
+			],
+			[
+				"col",
+				"col-sm-12"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"great",
+				"great-work-nav"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"bol",
+				"bold"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"fw",
+				"font-weight"
+			],
+			[
+				"clo",
+				"color"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"lsp",
+				"letter-spacing"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"white",
+				"whiteImage"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"mt",
+				"margin-top"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bas",
+				"background-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"last_filter": "pack",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/practices/appthem"
+	],
+	"file_history":
+	[
+		"/home/practices/appthem/index.html",
+		"/home/practices/appthem/css/style.css",
+		"/home/practices/appthem/contact.html",
+		"/home/practices/appthem/about.html",
+		"/home/practices/appthem/services.html",
+		"/home/practices/mazel/index.html",
+		"/home/linuxlite/Desktop/layout.css",
+		"/home/practices/mazel/html-backup.html",
+		"/home/practices/mazel/css/bootstrap.css",
+		"/var/www/html/index.php",
+		"/home/linuxlite/Desktop/height.html",
+		"/home/practices/mazel/js/bootstrap.js",
+		"/home/linuxlite/Desktop/bootstrap-4.0.0-beta.3/js/dist/carousel.js",
+		"/home/linuxlite/Desktop/bootstrap-4.0.0-beta.3/js/src/carousel.js",
+		"/home/linuxlite/Desktop/carousel.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Optimised</h3>",
+			"<h3>Fully",
+			"h4",
+			"opti",
+			"fully"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Optimised</h4>",
+			"<h4>Fully",
+			"h3",
+			"Opti",
+			"Fully"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "appthem.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 136.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
